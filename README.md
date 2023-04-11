@@ -2,7 +2,7 @@
 
 ## I'm a Front End Web Developer from Bristol, U.K.
 
-===
+---
 
 * I have a 
 

@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello I'm Irene! 👋
+
+## I'm a Front End Web Developer from Bristol, U.K.
+
+===
+
+* I have a 
 
 <!--
 **iresuji/iresuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

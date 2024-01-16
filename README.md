@@ -1,53 +1,42 @@
-### Hello I'm Irene! 👋
+# 👨‍💻 Architect-turned-Data Scientist | Python Enthusiast | ML Pipeline Builder | Data Engineer 🚀
 
-## I'm a Front End Web Developer from Bristol, U.K.
+🏗️ Former architect with nearly a decade of experience, now exploring the boundless world of data science. Blending architectural creativity with a passion for coding, I specialize in constructing end-to-end ML pipelines and leveraging big data tools for insightful analyses. 💡
 
----
+## 🎓 **Education:**
+- Data Scientist: Machine Learning (Codecademy)
+- Data Scientist Bootcamp (HyperionDev)
+- Data Engineering Professional Certificate (EdX & IBM)
+- Front End Web Developer Certificate (EdX & Trilogy)
 
-* I have a certificate as Front End Web Developer by EdX University.
-* I have assdda
-* asdds
-* asdd
+## 💼 **Professional Experience:**
+- **Architect (2014 – Present)**
+  - Rio Architects/Scott Brownrigg/Gaunt Francis/Chapman Taylor, U.K.
+  - Led project management and team coordination in various architectural projects, showcasing adaptability and a collaborative mindset.
+  - Worked on large-scale projects, including a £123 million mixed development, demonstrating project coordination and management skills.
 
+## 🚀 **GitHub Projects:**
+1. **U.S Medical Insurance Cost**
+   - [Link to GitHub](<insert link here>)
+   - Python analysis for valuable insights, emphasizing data exploration and visualization.
 
-<div id="header" align="center">
-  
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+2. **Airfoil Noise Prediction ML Pipeline**
+   - [Link to GitHub](<insert link here>)
+   - End-to-end ML pipeline using Python, Pandas, and Scikit-Learn for airfoil noise prediction.
 
+## 🛠️ **Technical Skills:**
+- Languages: Python, SQL, JavaScript
+- Data Science: ML, NLP, Data Visualization
+- Tools: Docker, Kubernetes, Git
+- Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+- Frameworks: ReactJS, NextJS
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn
 
+## 🌐 **Currently Learning:**
+- Cloud application development with node.js, Express, Containers, Kubernetes, OpenShift.
+- Python and Django application development with SQL, microservices, and serverless applications.
 
-<img src="https://komarev.com/ghpvc/?username=iresuji&style=flat-square&color=blue" alt=""/>
-  
-  
-</div>
-  
+## 👨‍🎓 **Enthusiastic Learner | Collaborative Team Player | Adaptable Problem Solver 🌟**
 
+Excited to contribute to data-driven projects, automate processes, and collaborate with like-minded professionals. Let's turn data into insights! 📊✨
 
-
-
-
-
-<!--
-**iresuji/iresuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me, let's code, learn, and innovate together! 🚀👩‍💻 #DataScience #Python #MachineLearning #DataEngineering

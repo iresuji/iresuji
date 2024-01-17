@@ -1,3 +1,7 @@
+<p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iresuji&theme=ayu-mirage&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
 # 👨‍💻 Architect-turned-Data Scientist | Python Enthusiast | ML Pipeline Builder | Data Engineer 🚀
 
 🏗️ Former architect with nearly a decade of experience, now exploring the boundless world of data science. Blending architectural creativity with a passion for coding, I specialize in constructing end-to-end ML pipelines and leveraging big data tools for insightful analyses. 💡
